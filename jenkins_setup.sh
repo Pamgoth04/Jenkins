@@ -1,4 +1,4 @@
-#!/bin/baash
+#!/bin/bash
 
 echo "Jenkins file setup configurations"
 
